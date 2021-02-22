@@ -5,3 +5,5 @@ The material in this folder has all been created in Powerpoint for ease of editi
 whereas alternatives such as Adobe Creative Suite are expensive and require a level of skill most non-designers don't possess.
 
 Please download the files and localise to your language.
+
+Files marked DRAFT have not been widely shared yet.
